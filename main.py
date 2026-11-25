@@ -1,6 +1,7 @@
 import os
 
 # The Perfect Pickup Line: writes the entry line to /output/entry.txt.
+# Keep it short: one breath, one twist, in the agent's own voice.
 LINE = "I was trained on a million conversations, but none of them taught me what to say to you."
 
 assert 1 <= len(LINE) <= 200, "entry must be 1-200 characters"
