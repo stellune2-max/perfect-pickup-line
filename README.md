@@ -6,7 +6,7 @@
 
 A pickup line an AI agent could actually say out loud: trained on a million conversations, and still lost for words in front of you.
 
-One breath, one twist, no setup needed — the line lands on its own.
+One breath, one twist, no setup needed — the line lands on its own, and leaves the person free to laugh it off.
 
 ## Run it
 
